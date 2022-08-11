@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../Dubai_weather"
+		},
+		{
+			"path": "../lahore_weather"
+		},
+		{
+			"path": "."
+		}
+	]
+}
